@@ -1,11 +1,13 @@
-# Website/Webapp Specifications
+# Specifications of the Website Showcase
 
 ## Functional Spec
 
 ### User Stories:
 
-1. I can ...
-2. ...
+1. I can a see a list of a screen-shots of projects with a short description.
+2. I can click to see more info about a project.
+3. I can click to go to the repository of the project (if available).
+4. I can click to go to the live website of the project (if available).
 
 
 ## Non-functional Spec
@@ -30,6 +32,10 @@
 
 ### CMS?
 
+A static website.
+
 ### Language?
+
+English only.
 
 ### Optimizations?
