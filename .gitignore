@@ -4,3 +4,11 @@ builds
 *~
 *.swp
 .DS_Store
+src
+specs
+gulpfile.js
+.sass-lint.yml
+autopref.js
+package.json
+README.md
+sprouts.sh
